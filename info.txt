@@ -1,0 +1,9 @@
+ccsCTF{UpD4T3_Y0uRS3lf_T0_4Dm1N!}
+
+desc: get flag /flag
+available endpoints: 
+/users
+/users/:id
+/users/login
+/users/register
+/flag
